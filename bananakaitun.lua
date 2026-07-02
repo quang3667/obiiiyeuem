@@ -43,7 +43,7 @@ DropShadowHolder.ZIndex = 0
 DropShadowHolder.Name = "DropShadowHolder"
 DropShadowHolder.Parent = ScreenGui
 
-DropShadow.Image = "rbxassetid://96693216224872"
+DropShadow.Image = "rbxassetid://110250504662479"
 DropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
 DropShadow.ImageTransparency = 0.5
 DropShadow.ScaleType = Enum.ScaleType.Slice
